@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0 ;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    margin: 3rem auto 4rem;
+    text-align: center;
+    font-weight: 700;
+    
+}
+
+#main-section {
+    text-align: center;
+    margin: 0 1.5rem;
+}
+
+#main-section .content {
+    text-align: left;
+    border: 2px solid #000;
+    padding: 3% 3% 0;
+    background-color: #999999;
+    position: relative;
+    margin: 1rem 0;
+}
+
+h4 {
+    width: 40%;
+    border: 2px solid #000;
+    text-align: center;
+    position: absolute;
+    top: -2px;
+    right: -2px;
+}
+
+p {
+    margin-top: 2.5rem;
+}
+
+.chicken {
+    background-color: #d59898;
+}
+
+.beef {
+    background-color: #c14543;
+    color: #fff;
+}
+
+.shushi {
+    background-color: #e5d198;
+}
+
+ 
+
